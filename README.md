@@ -3,7 +3,7 @@ This project, is the final project of **Computer Architecture and Language** cou
 This project contains codes that calculate the multiplication and convolution of matrices in **Assembly** and these assembly codes are written in two ways:</br>
     1) Using SISD commands</br>
     2) Using SIMD commands</br>
-Each micro project has its own directory which you can open. By running `./build.sh` command you will compile the codes and then by running `./exec` you can give inputs to the code and get the ouptputs.</br>
+Each micro project has its own directory. By running `./build.sh` command you will compile the codes and then by running `./exec` you can give inputs to the code and get the ouptputs.</br>
 There is also an **image processing** directory. We used the convolution codes to make some changes to the input pictures.</br>
   There are two **Python** files: </br>
     ***image_reader.py*** reads the input image and turns it into a grayscale matrix.</br>
